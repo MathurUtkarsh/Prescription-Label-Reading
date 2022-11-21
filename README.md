@@ -6,7 +6,7 @@ Problem Statement: Support elderly or vulnerable patients should be a focus for 
 
 Approach: You need to apply OCR techniques to extract the text data from the prescriptions and convert them into speech.
 
-installations done: paddleOCR paddlepaddle gTTS
+Installations done: paddleOCR paddlepaddle gTTS
 
 Project Title: Prescription Label Reading
 
